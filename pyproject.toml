@@ -1,0 +1,17 @@
+[project]
+name = "comfyui-model-downloader"
+version = "1.0.0"
+description = "One-click model downloads for the ComfyUI web UI: take over the missing-models 'Download' button and write straight into models/<folder>/"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/17funnyway8-ux/ComfyUI-Model-Downloader"
+
+# Uncomment after registering on https://registry.comfy.org to publish with `comfy node publish`
+# [tool.comfy]
+# PublisherId = "your-publisher-id"
+# DisplayName = "Model Downloader"
+# Icon = ""
